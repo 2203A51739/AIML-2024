@@ -1,1 +1,2 @@
-#Assingment2:https://github.com/2203A51739/AIML-2024/blob/main/Assignment2.ipynb
+#Part1-Assingment1: https://github.com/2203A51739/AIML-2024/blob/main/Part1_Assignment1.ipynb
+#Assingment2: https://github.com/2203A51739/AIML-2024/blob/main/Assignment2.ipynb
