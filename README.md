@@ -3,3 +3,5 @@
 #Part3-Assingment1: https://github.com/2203A51739/AIML-2024/blob/main/Part3_Assignment1.ipynb
 
 #Assingment2: https://github.com/2203A51739/AIML-2024/blob/main/Assignment2.ipynb
+
+#Assignment4: https://github.com/2203A51739/AIML-2024/blob/main/Assignment_4.ipynb
