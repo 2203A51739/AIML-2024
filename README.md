@@ -7,3 +7,5 @@
 #Assignment3: https://github.com/2203A51739/AIML-2024/blob/main/Assignment3.ipynb
 
 #Assignment4: https://github.com/2203A51739/AIML-2024/blob/main/Assignment_4.ipynb
+
+#Assignment5: https://github.com/2203A51739/AIML-2024/blob/main/Assignment5.ipynb
